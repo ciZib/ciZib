@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ciZib
 - 👀 I’m interested in software engineering, and programming in general
-- 🌱 I’m currently learning Java, with a lot of knowledge in C#, C/C++, moderate knowledge of SQL...
+- 🌱 I’m currently learning Java for college needs, Python for analytics, with a lot of knowledge in C#, C/C++, moderate knowledge of SQL...
 - 📫 How to reach me: cizibs@gmail.com
 
 <!---
